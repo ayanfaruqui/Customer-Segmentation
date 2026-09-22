@@ -122,13 +122,9 @@ For this dataset, **K = 5** produces the most meaningful customer segments.
 
 ### Streamlit Community Cloud (Recommended)
 
-1. Push code to GitHub
-2. Visit [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repository
-4. Set `app.py` as the main file
-5. Deploy — your app goes live! 🎉
+ Deploy — https://customer-segmentation-machine-learning-032.streamlit.app/🎉
 
----
+
 
 ## 🛠️ Tech Stack
 
