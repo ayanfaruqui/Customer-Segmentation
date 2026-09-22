@@ -122,7 +122,7 @@ For this dataset, **K = 5** produces the most meaningful customer segments.
 
 ### Streamlit Community Cloud (Recommended)
 
- Deploy — https://customer-segmentation-machine-learning-032.streamlit.app/🎉
+ Deploy — https://customer-segmentation-machine-learning-032.streamlit.app
 
 
 
