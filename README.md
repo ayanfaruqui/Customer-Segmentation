@@ -43,6 +43,8 @@ streamlit run app.py
 
 The app will open at `http://localhost:8501`.
 
+**🌐 Live Demo:** [https://customer-segmentation-machine-learning-032.streamlit.app](https://customer-segmentation-machine-learning-032.streamlit.app)
+
 ---
 
 ## 📁 Project Structure
